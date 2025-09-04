@@ -4,14 +4,6 @@
 
 ![Collaborate with your team in this Slack clone built using Next.js](/.github/images/img_main.png 'Collaborate with your team in this Slack clone built using Next.js')
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy 'Ask Me Anything!')
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/slack-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/slack-clone/blob/main/LICENSE 'GitHub license')
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/slack-clone/commits/main 'Maintenance')
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/slack-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/slack-clone/branches 'GitHub branches')
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/slack-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/slack-clone/commits 'Github commits')
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/slack-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/slack-clone/issues 'GitHub issues')
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/slack-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/slack-clone/pulls 'GitHub pull requests')
-[![Vercel status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://app-slack.vercel.app/ 'Vercel status')
 
 ## ✨ Features
 
@@ -272,95 +264,4 @@ bunx convex env set AUTH_GITHUB_SECRET your-github-client-secret
 
 You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
 
-## :gem: Acknowledgements
 
-Useful resources and dependencies that are used in Slack Clone.
-
-- Thanks to CodeWithAntonio: https://codewithantonio.com/
-- [@auth/core](https://www.npmjs.com/package/@auth/core): ^0.34.2
-- [@convex-dev/auth](https://www.npmjs.com/package/@convex-dev/auth): ^0.0.65
-- [@radix-ui/react-alert-dialog](https://www.npmjs.com/package/@radix-ui/react-alert-dialog): ^1.1.1
-- [@radix-ui/react-avatar](https://www.npmjs.com/package/@radix-ui/react-avatar): ^1.1.0
-- [@radix-ui/react-dialog](https://www.npmjs.com/package/@radix-ui/react-dialog): ^1.1.1
-- [@radix-ui/react-dropdown-menu](https://www.npmjs.com/package/@radix-ui/react-dropdown-menu): ^2.1.1
-- [@radix-ui/react-popover](https://www.npmjs.com/package/@radix-ui/react-popover): ^1.1.1
-- [@radix-ui/react-separator](https://www.npmjs.com/package/@radix-ui/react-separator): ^1.1.0
-- [@radix-ui/react-slot](https://www.npmjs.com/package/@radix-ui/react-slot): ^1.1.0
-- [@radix-ui/react-tooltip](https://www.npmjs.com/package/@radix-ui/react-tooltip): ^1.1.2
-- [@radix-ui/react-visually-hidden](https://www.npmjs.com/package/@radix-ui/react-visually-hidden): ^1.1.0
-- [class-variance-authority](https://www.npmjs.com/package/class-variance-authority): ^0.7.0
-- [clsx](https://www.npmjs.com/package/clsx): ^2.1.1
-- [cmdk](https://www.npmjs.com/package/cmdk): 1.0.0
-- [convex](https://www.npmjs.com/package/convex): ^1.15.0
-- [date-fns](https://www.npmjs.com/package/date-fns): ^4.1.0
-- [emoji-picker-react](https://www.npmjs.com/package/emoji-picker-react): ^4.12.0
-- [jotai](https://www.npmjs.com/package/jotai): ^2.9.3
-- [lucide-react](https://www.npmjs.com/package/lucide-react): ^0.439.0
-- [next](https://www.npmjs.com/package/next): 14.2.8
-- [next-themes](https://www.npmjs.com/package/next-themes): ^0.3.0
-- [nuqs](https://www.npmjs.com/package/nuqs): ^1.19.1
-- [quill](https://www.npmjs.com/package/quill): ^2.0.2
-- [react](https://www.npmjs.com/package/react): ^18
-- [react-dom](https://www.npmjs.com/package/react-dom): ^18
-- [react-icons](https://www.npmjs.com/package/react-icons): ^5.3.0
-- [react-resizable-panels](https://www.npmjs.com/package/react-resizable-panels): ^2.1.2
-- [react-use](https://www.npmjs.com/package/react-use): ^17.5.1
-- [react-verification-input](https://www.npmjs.com/package/react-verification-input): ^4.1.2
-- [sonner](https://www.npmjs.com/package/sonner): ^1.5.0
-- [tailwind-merge](https://www.npmjs.com/package/tailwind-merge): ^2.5.2
-- [tailwindcss-animate](https://www.npmjs.com/package/tailwindcss-animate): ^1.0.7
-- [@babel/eslint-parser](https://www.npmjs.com/package/@babel/eslint-parser): ^7.25.1
-- [@trivago/prettier-plugin-sort-imports](https://www.npmjs.com/package/@trivago/prettier-plugin-sort-imports): ^4.3.0
-- [@types/node](https://www.npmjs.com/package/@types/node): ^20
-- [@types/react](https://www.npmjs.com/package/@types/react): ^18
-- [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^18
-- [eslint](https://www.npmjs.com/package/eslint): ^8
-- [eslint-config-next](https://www.npmjs.com/package/eslint-config-next): 14.2.8
-- [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier): ^9.1.0
-- [eslint-plugin-prettier](https://www.npmjs.com/package/eslint-plugin-prettier): ^5.2.1
-- [postcss](https://www.npmjs.com/package/postcss): ^8
-- [prettier-plugin-tailwindcss](https://www.npmjs.com/package/prettier-plugin-tailwindcss): ^0.6.6
-- [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.4.1
-- [typescript](https://www.npmjs.com/package/typescript): ^5
-
-## :coffee: Buy Me a Coffee
-
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy 'Buy me a Coffee')
-
-## :rocket: Follow Me
-
-[![Follow Me](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy 'Follow Me')
-[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fslack-clone 'Tweet about this project')
-[![Subscribe to my YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCNAz_hUVBG2ZUN8TVm0bmYw)](https://www.youtube.com/@OPGAMER./?sub_confirmation=1 'Subscribe to my YouTube Channel')
-
-## :books: Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## :page_with_curl: Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-## :star: Give A Star
-
-You can also give this repository a star to show more people and they can use this repository.
-
-## :star2: Star History
-
-<a href="https://star-history.com/#sanidhyy/slack-clone&Timeline">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/slack-clone&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/slack-clone&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/slack-clone&type=Timeline" />
-</picture>
-</a>
-
-<br />
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
